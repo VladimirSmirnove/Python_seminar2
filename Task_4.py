@@ -3,17 +3,6 @@
 from re import M
 
 
-#N = int(input("Введите число: "))
-#N_list = list(range(-N, N+1))
-#mult = 1
-#for i in range(len(N_list)):
-##    i = int(input("Введите позицию i"))
-#for j in range(len(N_list)):
-#    j = int(input("Введите позицию"))
-#mult=i*j
-#print("Индекс: ", i,"Элемент по индексу: ", N_list[i],"Произведение элементов: ", mult, j)
-
-
 M = int(input("Введите число: "))
 lst = list(range(-M,M))
 multi=0
